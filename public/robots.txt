@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Allow: sitemap.xml
+
+Sitemap: https://www.baredezire.com/sitemap.xml
+
